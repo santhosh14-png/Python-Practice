@@ -1,0 +1,11 @@
+# Ignore everything in parent directories
+../../
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.eclipse/
+.idlerc/
